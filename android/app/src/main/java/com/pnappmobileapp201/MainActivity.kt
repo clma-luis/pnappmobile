@@ -1,4 +1,4 @@
-package com.pnappmobileapp201
+package pe.com.banbif.pnappmobile
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

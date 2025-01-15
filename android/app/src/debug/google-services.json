@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "335078626849",
+    "project_id": "banbif-pnappmobile-qa",
+    "storage_bucket": "banbif-pnappmobile-qa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335078626849:android:a5339b967331b25e7b3560",
+        "android_client_info": {
+          "package_name": "pe.com.banbif.pnappmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1zBVninkWyXJYfeBojp_mLtLS1HUuAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335078626849:android:dd535491c2a1edf87b3560",
+        "android_client_info": {
+          "package_name": "pe.com.banbif.pnappmobile.qa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1zBVninkWyXJYfeBojp_mLtLS1HUuAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "google_analytics_automatic_screen_reporting_enabled": false
+    }
+  ],
+  "configuration_version": "1"
+}

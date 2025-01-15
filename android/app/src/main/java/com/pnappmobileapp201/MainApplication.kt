@@ -1,4 +1,4 @@
-package com.pnappmobileapp201
+package pe.com.banbif.pnappmobile
 
 import android.app.Application
 import com.facebook.react.PackageList
